@@ -3,7 +3,7 @@
 div(class="flex flex-col gap-2")
     p(class="locationText") Surat,
     p(class="locationText") India
-    P(class="dateText") Mon, Oct 16
+    p(class="dateText") Mon, Oct 16
 </template>
 
 <style scoped>
